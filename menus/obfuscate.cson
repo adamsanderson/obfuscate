@@ -1,0 +1,14 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Obfuscate'
+      'submenu': [
+        { 'label': 'Obfuscate Text', 'command': 'obfuscate:text' }
+        { 'label': 'Obfuscate Letters', 'command': 'obfuscate:letters' }
+        { 'label': 'Obfuscate Numbers', 'command': 'obfuscate:numbers' }
+      ]
+    ]
+  }
+]
