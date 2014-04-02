@@ -6,7 +6,7 @@
   "activationEvents": [
     "obfuscate:text"
   ],
-  "repository": "https://github.com/atom/obfuscate",
+  "repository": "https://github.com/adamsanderson/obfuscate",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
