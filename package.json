@@ -2,7 +2,7 @@
   "name": "Obfuscate",
   "main": "./lib/obfuscate",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Obfuscate text while maintaining structure.",
   "activationEvents": [
     "obfuscate:text"
   ],
